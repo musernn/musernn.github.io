@@ -39,7 +39,7 @@
     <img src="Statistics.png" width="100%">
 </div>
 
-&emsp;&emsp; Some excerpts from the score are shown below.
+&emsp;&emsp; Some scores from the China-MIDI dataset are shown below.
 
 <div align=center>
     <img src="China-MIDI (15)-1.png" width="66%">
@@ -169,5 +169,5 @@
 
 <br> 
 
-&emsp;&emsp; More code and dataset will be avaliable soon. :)
+More code and dataset will be avaliable soon. :)
 
