@@ -61,6 +61,8 @@
 
 &emsp;&emsp; Some scores from the China-MIDI dataset are shown below.
 
+<br> 
+
 <div align=center>
     <img src="China-MIDI (15)-1.png" width="66%">
 </div><div align=center>  
