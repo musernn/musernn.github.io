@@ -79,6 +79,7 @@
 
 <br> 
 
+##   
 ## Samples
 
 &emsp;&emsp; The experiments in this paper perform a music continuation task on the validation set to verify the performance ofthe MuseRNN. Specifically, each piece of music in the validation set is cut equally into two segments of equal length, and the model is asked to output the complete piece of music by continuing the first half.
