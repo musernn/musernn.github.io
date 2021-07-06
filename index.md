@@ -1,4 +1,4 @@
- This webpage is the homepage of the MuseRNN as described in the article "A Distance and Beat-aware Duration and Pitch Mutual Generation Model for Instrumental Music" which submitted to ACM TOMM 2021 (submission ID XXXX).
+ This webpage is the homepage of the MuseRNN as described in the article "A Distance and Beat-aware Duration and Pitch Mutual Generation Model for Instrumental Music" which submitted to ACM TOMM 2021 (submission ID TOMM-2021-0244).
 
 &emsp;&emsp; MuseRNN is a model on music generation. Based on the duration and pitch information, MuseRNN is provided with more comprehensive musical information by introducing distance and beat information. In addition, benefitting from the adaptive temperature sampling, the model achieves the generation of complete musical compositions with a distinct structure as well as a sense of beat.
 
